@@ -3,3 +3,6 @@ Projects for [FLP](https://www.fit.vutbr.cz/study/courses/index.php?id=10822) (F
 
 ## RV-2-RKA
 Convert a regular expression (in postfix notation) to an extended finite automaton. Written in Haskell.
+
+## Turing machine
+Non-deterministic Turing machine simulator. Written in Prolog.
