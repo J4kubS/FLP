@@ -1,0 +1,3 @@
+Simulation has abnormally terminated. Possible reasons are:
+ * Attempted to move the head to the left from the first cell
+ * Final state could not be reached
